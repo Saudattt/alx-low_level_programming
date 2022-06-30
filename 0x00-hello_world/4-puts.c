@@ -1,8 +1,10 @@
 #include <stdio.h>
 /*
+ * main - enty point
  *
- * main -put function
- * Return: 0
+ * Description: 'C programming'
+ *
+ * Return: Always 0
   */
 
 
